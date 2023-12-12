@@ -68,7 +68,7 @@ Un posible ejemplo básico de cómo se usaría `async/await`:
 
 ```js
 //función asíncrona que retorna una promesa
-async function async function operacionAsincronaAsync() {
+async function operacionAsincronaAsync() {
   try {
     const resultado = await new Promise((resolve, reject) => {
       setTimeout(() => {
@@ -125,6 +125,13 @@ Todos los ejercicios que se muestran a continuación se puede realizar usando pr
 ### Ejercicio 1
 
 Crea una promesa que se resuelva después de 2 segundos.
+
+<details>
+  <summary>Solución</summary>
+  
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L1-L32
+
+</details>
 
 ### Ejercicio 2
 
