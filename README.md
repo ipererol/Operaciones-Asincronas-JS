@@ -182,10 +182,20 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/c2b651cca02a6c87b8345
 
 </details>
 
-
 ### Ejercicio 5
 
 Crea una promesa que se resuelve después de un tiempo de espera aleatorio (entre 1 y 5 segundos)
+
+<details>
+  <summary>Solución</summary>
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/790c2bb1693fda42d682fae27d24b57aaf4bd248/ejercicio5.js#L1-L8
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/790c2bb1693fda42d682fae27d24b57aaf4bd248/ejercicio5.js#L16-L18
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/790c2bb1693fda42d682fae27d24b57aaf4bd248/ejercicio5.js#L24
+
+</details>
 
 ## Ejemplos de peticiones con fetch
 
