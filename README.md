@@ -171,6 +171,18 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbe
 
 Simular dos operaciones asíncronas que se resuelven después de un segundo cada una y posteriormente se ejecuten ambas promesas simultáneamente con [`Promise.all`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/all).
 
+<details>
+  <summary>Solución</summary>
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L1-L11
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L13-L15
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L31-L40
+
+</details>
+
+
 ### Ejercicio 5
 
 Crea una promesa que se resuelve después de un tiempo de espera aleatorio (entre 1 y 5 segundos)
