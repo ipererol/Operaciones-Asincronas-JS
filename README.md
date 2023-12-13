@@ -174,11 +174,11 @@ Simular dos operaciones asíncronas que se resuelven después de un segundo cada
 <details>
   <summary>Solución</summary>
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L1-L11
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/c2b651cca02a6c87b8345445fd51f472fc989bfc/ejercicio4.js#L1-L11
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L13-L15
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/c2b651cca02a6c87b8345445fd51f472fc989bfc/ejercicio4.js#L13-L15
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L31-L40
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/c2b651cca02a6c87b8345445fd51f472fc989bfc/ejercicio4.js#L31-L40
 
 </details>
 
