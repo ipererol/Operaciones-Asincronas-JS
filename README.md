@@ -154,7 +154,18 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/e84f2f669e450887068a3
 
 ### Ejercicio 3
 
-Simula una operación asíncrona que se resuelve después de 1 y una vez que se devuelva está, se devuelva otra.
+Simula una operación asíncrona que se resuelve después de 1 segundo y una vez que se devuelva está, se devuelva otra.
+
+<details>
+  <summary>Solución</summary>
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L1-L5
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L7-L12
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L14-L25
+
+</details>
 
 ### Ejercicio 4
 
