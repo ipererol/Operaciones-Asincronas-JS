@@ -197,6 +197,16 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/790c2bb1693fda42d682f
 
 </details>
 
+### Ejercicio 6
+
+Crea un formulario con input que solo acepte valores numéricos y un botón. Al hacer click en dicho botón deberá esperar dicho numero de segundos y posteriormente mostrarte el numero de tiempo esperado por consola.
+
+
+<details>
+  <summary>Solución</summary>
+
+</details>
+
 ## Ejemplos de peticiones con fetch
 
 ### Con promesas
