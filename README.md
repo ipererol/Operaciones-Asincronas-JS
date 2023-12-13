@@ -128,12 +128,12 @@ Crea una promesa que se resuelva después de 2 segundos.
 
 <details>
   <summary>Solución</summary>
-  
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L1-L9
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L16-L21
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/b401d4294cb5930fbbfd42981445e292ffe0e9b1/ejercicio1.js#L1-L5
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L27-L34
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/b401d4294cb5930fbbfd42981445e292ffe0e9b1/ejercicio1.js#L12-L17
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/b401d4294cb5930fbbfd42981445e292ffe0e9b1/ejercicio1.js#L23-L32
 
 </details>
 
@@ -143,12 +143,12 @@ Crea una promesa que reciba un número por parámetro y que se resuelva si el n�
 
 <details>
   <summary>Solución</summary>
-  
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L1-L5
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L12-L17
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L1-L9
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L23-L32
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L16-L21
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L27-L34
 
 </details>
 
