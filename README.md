@@ -129,6 +129,21 @@ Crea una promesa que se resuelva después de 2 segundos.
 <details>
   <summary>Solución</summary>
   
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L1-L9
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L16-L21
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/286cbe98400df47c15c743aba64cd856cd561717/ejercicio2.js#L27-L34
+
+</details>
+
+### Ejercicio 2
+
+Crea una promesa que reciba un número por parámetro y que se resuelva si el número pasado por parámetro es par y se rechace si es impar.
+
+<details>
+  <summary>Solución</summary>
+  
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L1-L5
 
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L12-L17
@@ -136,10 +151,6 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L23-L32
 
 </details>
-
-### Ejercicio 2
-
-Crea una promesa que reciba un número por parámetro y que se resuelva si el número pasado por parámetro es par y se rechace si es impar.
 
 ### Ejercicio 3
 
