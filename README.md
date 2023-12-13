@@ -129,7 +129,11 @@ Crea una promesa que se resuelva después de 2 segundos.
 <details>
   <summary>Solución</summary>
   
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L1-L32
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L1-L5
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L12-L17
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/8a98e2230acce89309adc5614f05b14c12ab875b/ejercicio1.js#L23-L32
 
 </details>
 
