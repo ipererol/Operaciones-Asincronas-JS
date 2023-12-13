@@ -32,3 +32,6 @@ async function verificarParidadAsync(numero) {
         console.error(error);
     }
 }
+
+
+verificarParidadAsync(4)
