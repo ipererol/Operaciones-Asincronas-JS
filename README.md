@@ -178,7 +178,7 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7
 
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L13-L15
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L31-L40
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/4d93d372f4837af5467a7f0cba542635d4d787c8/ejercicio4.js#L31-L40
 
 </details>
 
