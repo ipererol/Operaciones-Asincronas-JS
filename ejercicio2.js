@@ -33,5 +33,4 @@ async function verificarParidadAsync(numero) {
     }
 }
 
-
 verificarParidadAsync(4)
