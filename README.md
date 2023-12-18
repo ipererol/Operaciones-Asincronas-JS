@@ -12,8 +12,11 @@
     - [Ejercicio 1](#ejercicio-1)
     - [Ejercicio 2](#ejercicio-2)
     - [Ejercicio 3](#ejercicio-3)
+      - [Solución propuesta en clase para ejercicio 3](#solución-propuesta-en-clase-para-ejercicio-3)
     - [Ejercicio 4](#ejercicio-4)
     - [Ejercicio 5](#ejercicio-5)
+    - [Ejercicio 6](#ejercicio-6)
+    - [Ejercicio 7](#ejercicio-7)
   - [Ejemplos de peticiones con fetch](#ejemplos-de-peticiones-con-fetch)
     - [Con promesas](#con-promesas)
     - [Con `async/await`](#con-asyncawait)
@@ -165,7 +168,7 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbe
 
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L14-L25
 
-#### Solución propuesta en clase
+#### Solución propuesta en clase para ejercicio 3
 
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/6788031dd99c383d1b30e4b70c662052bfc40c8b/ejercicio3.js#L1-26
 
