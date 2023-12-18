@@ -170,7 +170,7 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbe
 
 #### Solución propuesta en clase para ejercicio 3
 
-https://github.com/ipererol/Operaciones-Asincronas-JS/blob/6788031dd99c383d1b30e4b70c662052bfc40c8b/ejercicio3.js#L1-26
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/1b50905d2cefdab7d9952ed62cdb41b2aa8e50a9/ejercicio3.js#L1-L26
 
 </details>
 
