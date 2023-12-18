@@ -207,6 +207,10 @@ Crea un formulario con input que solo acepte valores numéricos y un botón. Al 
 
 </details>
 
+### Ejercicio 7
+
+Desarrolla la funcionalidad de pintar progresivamente la pantalla en un periodo de 5 segundos mediante el uso de promesas. Una vez completada la tarea de pintura gradual, la promesa debe notificar al usuario y solicitar confirmación. Si el usuario no está conforme, se debe cumplir otra promesa para repintar la pantalla con un color diferente de manera progresiva.
+
 ## Ejemplos de peticiones con fetch
 
 ### Con promesas
