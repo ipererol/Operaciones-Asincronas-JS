@@ -165,6 +165,10 @@ https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbe
 
 https://github.com/ipererol/Operaciones-Asincronas-JS/blob/80f5d14ad9a9f93e65fbed6827090c0f0ba8e5ac/ejercicio3.js#L14-L25
 
+#### Solución propuesta en clase
+
+https://github.com/ipererol/Operaciones-Asincronas-JS/blob/6788031dd99c383d1b30e4b70c662052bfc40c8b/ejercicio3.js#L1-26
+
 </details>
 
 ### Ejercicio 4
