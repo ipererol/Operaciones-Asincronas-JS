@@ -1,37 +1,26 @@
-const waitASec = new Promise(function (resolve) {
-    setTimeout(() => {
-        resolve("un segundo!")
-    }, 1000)
+function functionPromesa1(msg, tiempo) {
+    return new Promise(function (resolver, rechazar) {
+        if (tiempo > 500) {
+            setTimeout(function () {
+                resolver(msg)
+            }, tiempo)
+        } else {
+            rechazar("error" )
+        }
+
+    })
+}
+
+functionPromesa1("primera", 1000).then((resultado) => {
+    console.log(resultado)
+    return functionPromesa1("segunda", 500)
+}).then((resultado2) => {
+    console.log(resultado2)
+    return functionPromesa1("tercera", 3000);
+}).then((resultado3) => {
+    console.log(resultado3)
+}).catch(error => {
+    console.error(error)
 })
 
-waitASec.then((result) => {
-    console.log(result)
-    return "completé otra compresa más!"
-}).then((msg) => {
-    console.log(msg)
-})
-
-const encadenarOperacionesAsync = async () => {
-    try {
-        const result = await waitASec;
-        console.log(result);
-        const mensaje = 'completé otra compresa más!';
-        console.log(mensaje);
-    } catch (error) {
-        console.error('Error:', error);
-    }
-};
-
-encadenarOperacionesAsync()
-
-/*
-***** si lo hacemos tal y como se indica en ejecutarOperacionSinEspera
-***** primero se muestra "Operación asincrona en progreso..." y despues se resuleve la promesa
-*/
-
-const ejecutarOperacionSinEspera = async () => {
-    waitASec;
-    console.log('Operación asincrona en progreso...');
-};
-
-ejecutarOperacionSinEspera()
+console.log("esto se imprimira primero")
